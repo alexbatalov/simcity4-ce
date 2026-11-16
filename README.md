@@ -1,6 +1,6 @@
 # SimCity 4
 
-This is a proof of concept. Do not take it too seriously. Modern macOS and iOS only, with the latter being the primary platform of interest. Source code will be available later. Skip if you're in the anti-AI camp.
+This is a proof of concept. Do not take it too seriously. iOS only. Source code will be available later. Skip if you're in the anti-AI camp.
 
 ## Installation
 
